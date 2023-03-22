@@ -4,12 +4,13 @@ A data analytics project attempting to correlate the global decline of biodivers
 
 
 ### Instructions
-1. Ensure modules are installed and Python is updated to at least 3.9.16.
-2. Open and run **living_planet.ipynb.** This will display a graph and create an Excel file named 'living-planet-spread.xlsx'.
-3. Open and run **fao_land_data.ipynb**. This will display a graoh and create an Excel file named 'fao_land_data_spread.xlsx'.
-4. Open **streamlit-living-land.py**.
-5. In terminal, run `streamlit run streamlit-living-land.py`. This will open a new window in your browser of the streaamlit app.
-6. Alternatively, you can visit this [link](https://kabfare-biodiversity-decline-streamlit-living-land-xrt9r7.streamlit.app) to view the app.
+1. Refer to **requirements.txt**.
+2. Ensure modules are installed and Python is updated to at least 3.9.16.
+3. Open and run **living_planet.ipynb.** This will display a graph and create an Excel file named 'living-planet-spread.xlsx'.
+4. Open and run **fao_land_data.ipynb**. This will display a graoh and create an Excel file named 'fao_land_data_spread.xlsx'.
+5. Open **streamlit-living-land.py**.
+6. In terminal, run `streamlit run streamlit-living-land.py`. This will open a new window in your browser of the streaamlit app.
+7. Alternatively, you can visit this [link](https://kabfare-biodiversity-decline-streamlit-living-land-xrt9r7.streamlit.app) to view the app.
 
 ### Features
 1. Read in data from a local csv and excel file.

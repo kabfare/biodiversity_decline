@@ -1,6 +1,6 @@
 # Global Biodiversity Decline as Related to Farming
 
-A data analytics project attempting to correlate the global decline of biodiversity with the increase in farmland per region.
+A data analytics project attempting to correlate the global decline of biodiversity--the variety of plants, animals, insects, and fish--with the increase in farmland per region. The project contains two .csv files, two Jupyter notebooks, and two .xlsx files. My Streamlit code is also stored in an .py file. Each .ipynb takes it's assigned .csv files, cleans and wrangles the data, graphs it, and exports the cleaned data to an Excel file to be used in the Streamlit code. Deforestation and land destruction related to farming is only one of the many causes of the biodiversity decline across the globe. The streamlit app takes each graph and correlates the graph showing the decline in biodiversity with the graph showing the increase in land dedicated to farming.
 
 
 ### Instructions

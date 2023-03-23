@@ -29,7 +29,7 @@ chart=pd.DataFrame(live2, columns=['Africa', 'Asia and Pacific', 'Europe and Cen
 
 st.line_chart(chart)
 
-st.caption('Above is a graph plotting the average index of biodiversity per region. Note that all regions are on a steady decline, particularly Latin America which has a sharper decline than all other regions. One possible cause of this could be deforestation related to farming. See the below graph.')
+st.caption('Above is a graph plotting the average index (y-axis) of biodiversity per region. Note that all regions are on a steady decline, particularly Latin America which has a sharper decline than all other regions. One possible cause of this could be deforestation related to farming. See the below graph.')
 
 st.write(' ')
 st.write(' ')

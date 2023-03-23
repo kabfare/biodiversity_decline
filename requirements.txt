@@ -1,5 +1,5 @@
 jupyter @ file:///C:/Windows/TEMP/abs_56xfdi__li/croots/recipe/jupyter_1659349053177/work
-matplotlib @ file:///C:/ci/matplotlib-suite_1660169687702/work
-numpy @ file:///C:/ci/numpy_and_numpy_base_1653574844560/work
-pandas @ file:///C:/b/abs_cdcgk91igc/croots/recipe/pandas_1663772960432/work
-streamlit==1.20.0
+matplotlib @ file:///C:/b/abs_03z_dj2gty/croot/matplotlib-suite_1670466145509/work
+numpy @ file:///C:/b/abs_datssh7cer/croot/numpy_and_numpy_base_1672336199388/work
+pandas @ file:///C:/b/abs_c6fuezktfm/croot/pandas_1670425103552/work
+streamlit==1.19.0

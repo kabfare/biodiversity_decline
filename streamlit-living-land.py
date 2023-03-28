@@ -1,5 +1,4 @@
 import pandas as pd
-import matplotlib.pyplot as plt
 import streamlit as st
 
 
@@ -10,9 +9,7 @@ st.write(' ')
 st.write(' ')
 st.write(' ')
 
-live=pd.read_excel('living-planet-spread.xlsx', dtype={'Year' : str})
-
-live=live.drop(axis=1, columns='Unnamed: 0')
+live=pd.read_excel('living-planet-spread.xlsx', dtype={'Year' : str}, index_col=False)
 
 live['Year']=live['Year'].astype('object')
 
